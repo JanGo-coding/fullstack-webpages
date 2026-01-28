@@ -1,0 +1,1 @@
+ALTER TABLE users ADD COLUMN email VARCHAR(150) UNIQUE AFTER student_id;
